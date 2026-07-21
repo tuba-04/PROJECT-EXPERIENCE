@@ -32,9 +32,9 @@
 **เข้าดูผลงาน:**(https://github.com/tuba-04/Customer-Segmentation-Marketing-Insights)
 
 ### 6. ⭐️ Customer Satisfaction Analytics
-### **เครื่องมือที่ใช้:** Excel,Looker Studio
+#### **เครื่องมือที่ใช้:** Excel,Looker Studio
 
-### **เข้าดูผลงาน:**(https://github.com/tuba-04/Customer-Satisfaction-Analytics)
+#### **เข้าดูผลงาน:**(https://github.com/tuba-04/Customer-Satisfaction-Analytics)
 ---
 ## 📚 CERTIFICATIONS
 **เข้าดูผลงาน:** (https://github.com/tuba-04/CERTIFICATIONS)
